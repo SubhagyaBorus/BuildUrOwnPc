@@ -1,0 +1,10 @@
+^D:\FLUT APPS\RESTAURANTANDCOFFE_UI\BUILD_UR_OWN_PC\BUILD\WINDOWS\CMAKEFILES\F1A59581A6A61334A3416CE6C54098D5\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

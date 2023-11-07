@@ -1,0 +1,13 @@
+D:/Flut Apps/RestaurantAndCoffe_UI/build_ur_own_pc/build/windows/CMakeFiles/INSTALL.dir
+D:/Flut Apps/RestaurantAndCoffe_UI/build_ur_own_pc/build/windows/CMakeFiles/ALL_BUILD.dir
+D:/Flut Apps/RestaurantAndCoffe_UI/build_ur_own_pc/build/windows/CMakeFiles/ZERO_CHECK.dir
+D:/Flut Apps/RestaurantAndCoffe_UI/build_ur_own_pc/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/Flut Apps/RestaurantAndCoffe_UI/build_ur_own_pc/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/Flut Apps/RestaurantAndCoffe_UI/build_ur_own_pc/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+D:/Flut Apps/RestaurantAndCoffe_UI/build_ur_own_pc/build/windows/flutter/CMakeFiles/INSTALL.dir
+D:/Flut Apps/RestaurantAndCoffe_UI/build_ur_own_pc/build/windows/runner/CMakeFiles/build_ur_own_pc.dir
+D:/Flut Apps/RestaurantAndCoffe_UI/build_ur_own_pc/build/windows/runner/CMakeFiles/INSTALL.dir
+D:/Flut Apps/RestaurantAndCoffe_UI/build_ur_own_pc/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+D:/Flut Apps/RestaurantAndCoffe_UI/build_ur_own_pc/build/windows/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir
+D:/Flut Apps/RestaurantAndCoffe_UI/build_ur_own_pc/build/windows/plugins/url_launcher_windows/CMakeFiles/INSTALL.dir
+D:/Flut Apps/RestaurantAndCoffe_UI/build_ur_own_pc/build/windows/plugins/url_launcher_windows/CMakeFiles/ALL_BUILD.dir

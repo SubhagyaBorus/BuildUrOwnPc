@@ -1,6 +1,6 @@
 {
-    "name": "build_ur_own_pc",
-    "short_name": "build_ur_own_pc",
+    "name": "buld_ur_own_pc",
+    "short_name": "buld_ur_own_pc",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

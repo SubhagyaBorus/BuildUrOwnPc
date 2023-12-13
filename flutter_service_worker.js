@@ -3,12 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "8e2e054cd6ed5597602e5fd69f79e55e",
-"assets/AssetManifest.bin.json": "9ab4ca6231e47927d3af217321c72e1a",
-"assets/AssetManifest.json": "8397648574a79abb127efb2a48d5d8d7",
+const RESOURCES = {"assets/AssetManifest.bin": "01409f10a011d0567bff9b0285578df5",
+"assets/AssetManifest.bin.json": "31850690b26780c993aef0141861f35a",
+"assets/AssetManifest.json": "b1114dcd160af82e5f3b40cb07f8aa0a",
 "assets/assets/Icons/computer.png": "34988bf3088c2e7f75ecf15515d2ed24",
+"assets/assets/Icons/computer2.png": "653e9e14f081f8e331c74bb5958b1269",
+"assets/assets/Icons/computer3.png": "73186c6310fb584e19318c1ba518e337",
 "assets/assets/Icons/gaming-monitor-icon.svg": "66dceee98cf87052a27da7749f3e5612",
 "assets/assets/Icons/gaming-pc-icon.svg": "e5b68f40aab7079b72c0df1418332d74",
+"assets/assets/Icons/keyboard-and-mouse.png": "2a3b30c8fa670969538c964f5cfd2eac",
+"assets/assets/Icons/laptop.png": "4c29667869a128bb02f646b206f8870c",
 "assets/assets/Icons/tower-pc.png": "c10f0e195c4c8a65b121dd7375f2f18c",
 "assets/assets/Images/Drawer/1.jpg": "7ab91c5e82dc1cf9e39dca8b517c33db",
 "assets/assets/Images/Drawer/2.jpg": "4f74444705ae302661d49d8a786a1d86",
@@ -22,7 +26,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "8e2e054cd6ed5597602e5fd69f79e55e
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "f25e8e701660fb45e2a81ff3f43c6d5c",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "6fc322bfa85032bb092ab859e2339680",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "7f6c45be7e44d37b5e211e675d5c61f9",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "40596a5db9426e60baac333aa4d9d52d",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
 "canvaskit/canvaskit.js": "eb8797020acdbdf96a12fb0405582c1b",
 "canvaskit/canvaskit.wasm": "73584c1a3367e3eaf757647a8f5c5989",
@@ -37,9 +41,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "8e2e054cd6ed5597602e5fd69f79e55e
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a72b75cb657f10e77915e0e70e9e96fb",
-"/": "a72b75cb657f10e77915e0e70e9e96fb",
-"main.dart.js": "1a5f3871579495c064fe80a6c2dc0a09",
+"index.html": "f0deec173af75273eca36a9d06bef1c9",
+"/": "f0deec173af75273eca36a9d06bef1c9",
+"main.dart.js": "846bbd2681f0b72db8b58bb55617877b",
 "manifest.json": "8be44e56296069f0989b8d96a2da90e0",
 "version.json": "e714e0ccd9c733e78442993197dff1b4"};
 // The application shell files that are downloaded before a service worker can

@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "b859e805373c269c049abcc8f7f0983d",
-"assets/AssetManifest.bin.json": "90432ddedc7c88611bce8d6f4e28218a",
-"assets/AssetManifest.json": "9dceaefd183a0fa2091611fed610621e",
+const RESOURCES = {"assets/AssetManifest.bin": "84ce4a30614466e6565a23d83dd4f463",
+"assets/AssetManifest.bin.json": "7f52d3143e0c5c0b1fb1256a63e8c0ae",
+"assets/AssetManifest.json": "370d5cd59347d59815f5f12f7c6943c6",
 "assets/assets/Icons/computer.png": "34988bf3088c2e7f75ecf15515d2ed24",
 "assets/assets/Icons/computer2.png": "653e9e14f081f8e331c74bb5958b1269",
 "assets/assets/Icons/computer3.png": "73186c6310fb584e19318c1ba518e337",
@@ -14,6 +14,12 @@ const RESOURCES = {"assets/AssetManifest.bin": "b859e805373c269c049abcc8f7f0983d
 "assets/assets/Icons/keyboard-and-mouse.png": "2a3b30c8fa670969538c964f5cfd2eac",
 "assets/assets/Icons/laptop.png": "4c29667869a128bb02f646b206f8870c",
 "assets/assets/Icons/tower-pc.png": "c10f0e195c4c8a65b121dd7375f2f18c",
+"assets/assets/Images/backgroundImage/1.jpg": "6c391579cb9f0acfcd89ef6fd53f59a0",
+"assets/assets/Images/backgroundImage/2.jpg": "453ea07eb4878675ddbc505a9032f73a",
+"assets/assets/Images/backgroundImage/3.jpg": "8c4e36d4095173f167ed540c92414681",
+"assets/assets/Images/backgroundImage/4.jpg": "29b1a89b2fbfcc4ed079b98966c59f99",
+"assets/assets/Images/backgroundImage/5.jpg": "1e8313a4ad2b11f4c48be1d0c52e3646",
+"assets/assets/Images/backgroundImage/6.jpg": "19f16445912df449962bdb4536d9e6b5",
 "assets/assets/Images/Drawer/1.jpg": "7ab91c5e82dc1cf9e39dca8b517c33db",
 "assets/assets/Images/Drawer/2.jpg": "4f74444705ae302661d49d8a786a1d86",
 "assets/assets/Images/Drawer/3.jpg": "52c4a7f7274bc4c4b4d6697806577930",
@@ -34,7 +40,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "b859e805373c269c049abcc8f7f0983d
 "assets/assets/Images/GamingPC'S/7.png": "5ce94d389a90e543c2141daf32aebdaa",
 "assets/assets/Images/HomePage/Gaming%2520pc.png": "f3bdf55a52da55f92314eb7b2d39fb27",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/fonts/MaterialIcons-Regular.otf": "ac9d991cfdebd773f815a4b8efae7f88",
+"assets/fonts/MaterialIcons-Regular.otf": "b085ab35f08efd8b29e691c135aedf0f",
 "assets/NOTICES": "e05f50754e6da98570b2865690c21aa4",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "f25e8e701660fb45e2a81ff3f43c6d5c",
@@ -54,9 +60,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "b859e805373c269c049abcc8f7f0983d
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "bb2d2571f5efecb8329dc1942ea5cdbc",
-"/": "bb2d2571f5efecb8329dc1942ea5cdbc",
-"main.dart.js": "f9ec9d02c6d6fdad7194938bfc089ea4",
+"index.html": "91a9be4f92d1c7450b4f4353a643fd70",
+"/": "91a9be4f92d1c7450b4f4353a643fd70",
+"main.dart.js": "78aee8e1cc6c56da175da34e3200723a",
 "manifest.json": "8be44e56296069f0989b8d96a2da90e0",
 "version.json": "e714e0ccd9c733e78442993197dff1b4"};
 // The application shell files that are downloaded before a service worker can

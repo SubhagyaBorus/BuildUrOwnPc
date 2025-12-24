@@ -1,6 +1,6 @@
 {
-    "name": "buld_ur_own_pc",
-    "short_name": "buld_ur_own_pc",
+    "name": "admin_pannel",
+    "short_name": "admin_pannel",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
